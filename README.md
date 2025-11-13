@@ -48,3 +48,10 @@ This project demonstrates how **Large Language Models (LLMs)** can be integrated
 5. **Question Answering:** When you ask a question, relevant chunks are retrieved, and the **FLAN-T5** model generates an accurate, contextual response.  
 
 ---
+
+## ⭐ Acknowledgements  
+
+- [LangChain](https://github.com/hwchase17/langchain)  
+- [Hugging Face Transformers](https://huggingface.co)  
+- [Streamlit](https://streamlit.io)  
+- [FAISS](https://github.com/facebookresearch/faiss)
