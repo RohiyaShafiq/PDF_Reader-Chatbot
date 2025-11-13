@@ -38,3 +38,13 @@ This project demonstrates how **Large Language Models (LLMs)** can be integrated
 | **Environment Management** | Python dotenv |
 
 ---
+
+## 🧠 How It Works  
+
+1. **PDF Upload:** You can upload one or more PDFs.  
+2. **Text Extraction:** The app reads and extracts text using **PyPDF2**.  
+3. **Text Splitting:** Text is divided into chunks using **LangChain’s TextSplitter**.  
+4. **Vectorization:** Each chunk is embedded using **Hugging Face sentence-transformers** and stored in a **FAISS** index.  
+5. **Question Answering:** When you ask a question, relevant chunks are retrieved, and the **FLAN-T5** model generates an accurate, contextual response.  
+
+---
