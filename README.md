@@ -1,5 +1,9 @@
 # 📚 Chat with Multiple PDFs  
-> Interactively chat with your PDF documents using AI 🤖 
+> Interactively chat with your PDF documents using AI 🤖
+
+![App Screenshot](Capture.JPG)
+
+---
 
 ## 🚀 Overview  
 
